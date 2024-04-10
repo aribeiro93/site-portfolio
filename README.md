@@ -9,6 +9,7 @@ Aprendendo **repos**.
 Trabalhando com **branches**._
 
 ### Rede Social:
-[Linkedin](www.linkedin.com/in/ribeiroallan)
+[Linkedin](https://www.linkedin.com/in/ribeiroallan)
 
 [YouTube](https://www.youtube.com/watch?v=AJW65cuwjZc)
+

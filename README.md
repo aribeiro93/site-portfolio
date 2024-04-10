@@ -10,8 +10,9 @@ _Projeto para o **curso de github** da Udemy_
 * Usando git de forma profissional
 
 1. Entendendo o que é **git**.
-        1. teste
-        2. teste 2
+    1. teste 1
+    2. teste 2
+    3. teste 3
 2. Aprendendo **repos**.
 3. Trabalhando com **branches**.
 4. Usando git de forma profissional

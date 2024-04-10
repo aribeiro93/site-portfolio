@@ -7,6 +7,12 @@ _Projeto para o **curso de github** da Udemy_
 * Entendendo o que é **git**.
 * Aprendendo **repos**.
 * Trabalhando com **branches**.
+* Usando git de forma profissional
+
+1. Entendendo o que é **git**.
+2. Aprendendo **repos**.
+3. Trabalhando com **branches**.
+4. Usando git de forma profissional
 
 ### Rede Social:
 [Linkedin](https://www.linkedin.com/in/ribeiroallan)

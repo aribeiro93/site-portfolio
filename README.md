@@ -2,9 +2,9 @@
 projeto para o curso de github da Udemy
 
 ## Módulos:
-Entendendo o que é git
-Aprendendo repos
-Trabalhando com branches
+Entendendo o que é git,
+Aprendendo repos,
+Trabalhando com branches,
 
 # titulo <h1>
 ## titulo <h2>

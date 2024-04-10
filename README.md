@@ -4,9 +4,9 @@
 _Projeto para o **curso de github** da Udemy_
 
 ## Módulos:
-_Entendendo o que é **git**.
-Aprendendo **repos**.
-Trabalhando com **branches**._
+* Entendendo o que é **git**.
+* Aprendendo **repos**.
+* Trabalhando com **branches**.
 
 ### Rede Social:
 [Linkedin](https://www.linkedin.com/in/ribeiroallan)
